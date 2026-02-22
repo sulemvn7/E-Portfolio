@@ -1,0 +1,12 @@
+Website: google.com
+IP Address: 142.250.129.102
+Lookup Time: 0.041988 seconds
+
+Website: github.com
+IP Address: 20.26.156.215
+Lookup Time: 0.009868 seconds
+
+Website: bbc.co.uk
+IP Address: 151.101.0.81
+Lookup Time: 0.007693 seconds
+
